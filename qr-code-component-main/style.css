@@ -26,20 +26,20 @@ body {
   /* border: 1px solid red; */
 }
 
-.container .main .child1 {
+.container .main .qr-code {
   margin: 0 auto;
 }
 
-.container .main .child1 img {
+.container .main .qr-code img {
   width: 260px;
   border-radius: 12px;
 }
 
-.container .main .child2 {
+.container .main .content {
   padding: 0;
 }
 
-.container .main .child2 .title {
+.container .main .content .content-title {
   text-align: center;
   font-weight: 700;
   color: black;
@@ -47,7 +47,7 @@ body {
   /* border: 1px solid red; */
 }
 
-.container .main .child2 .desc {
+.container .main .content .content-text {
   color: darkgrey;
   text-align: center;
   font-size: 15px;
